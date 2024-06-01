@@ -5,3 +5,4 @@
 *.o
 /demo/hello-world
 /demo/hello-world.exe
+/tmp/*
